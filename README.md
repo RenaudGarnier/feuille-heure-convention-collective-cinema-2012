@@ -1,0 +1,2 @@
+# feuille-heure-convention-collective-cinema-2012
+Cette page permet de calculer ses heures de travail chaque semaine en respectant les taux horaires en vigueur et en automatisant les heures supplémentaires ainsi que les majorations. cette page est en cours de développement. Merci de communiquer tout dysfonctionnement à cette adresse : renaudgarnier@icloud.com en joignant le lien de la page affichant une erreur. Merci
